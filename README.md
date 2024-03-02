@@ -7,11 +7,14 @@
 ```
 
 Is Unicode still cool?  Anyway, I'm freshgum.
-I'd say "Nice to meet you", but I don't know who you are.
+I'd say "Nice to meet you", but I don't know who you are (and it's cringe).
+
+> [!TIP]
+> I'm migrating quite a few projects over to [my Codeberg account](https://codeberg.org/freshgum).
 
 GitHub's telling me to put what I'm working on in here, so...
-  - Life! Learning to drive.
-  - [TypeDI is one of my main projects](https://github.com/freshgum-bubbles/typedi) (we can safely say it's way cooler than upstream)
+  - Starting a blog!  Will have a link soon.
+  - [TypeDI is one of my main projects](https://github.com/freshgum-bubbles/typedi) :D
 
 The best way to get in touch with me is via e-mail: `freshgum hyphen bubbles at proton (no space) mail dot com`
 
